@@ -1,0 +1,2 @@
+# SkyrimXMLforSOSandUNP
+Just config files
