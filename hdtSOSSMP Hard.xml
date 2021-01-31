@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="description.xsd">
+
+	<!-- KEYFRAMED -->
+<bone-default>
+	<mass>0</mass>
+	<inertia x="0" y="0" z="0"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>0</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>0</margin-multiplier>
+</bone-default>
+
+<bone name="NPC GenitalsBase [GenBase]"/>
+
+
+	<!-- BODY -->
+<bone name="NPC Genitals01 [Gen01]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="2"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>0</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>0.1</margin-multiplier>
+
+</bone>
+
+<bone name="NPC Genitals02 [Gen02]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="2.5"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>1</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>0.2</margin-multiplier>
+	<gravity-factor>0.0</gravity-factor>
+</bone>
+
+<bone name="NPC Genitals03 [Gen03]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="2"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>1</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>1</margin-multiplier>
+	<gravity-factor>0.0</gravity-factor>
+</bone>
+
+<bone name="NPC Genitals04 [Gen04]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="1.5"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>1</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>2</margin-multiplier>
+	<gravity-factor>0.0</gravity-factor>
+
+</bone>
+
+<bone name="NPC Genitals05 [Gen05]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="1.25"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>1</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>3</margin-multiplier>
+	<gravity-factor>0.0</gravity-factor>
+
+</bone>
+
+<bone name="NPC Genitals06 [Gen06]">
+	<mass>1</mass>
+	<inertia x="2" y="2" z="1.0"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>1</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>4</margin-multiplier>
+	<gravity-factor>0.0</gravity-factor>
+
+</bone>
+
+<bone name="NPC GenitalsScrotum [GenScrot]">
+	<mass>0.4</mass>
+	<inertia x="10" y="10" z="20"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>0</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>0</margin-multiplier>
+</bone>
+
+
+
+
+	<!-- KEYFRAMED (SKELETON) -->
+<bone-default>
+	<mass>0</mass>
+	<inertia x="0" y="0" z="0"/>
+		<centerOfMassTransform>
+			<basis x="0" y="0" z="0" w="1"/>
+			<origin x="0" y="0" z="0"/>
+		</centerOfMassTransform>
+	<linearDamping>0</linearDamping>
+	<angularDamping>0</angularDamping>
+	<friction>0</friction>
+	<rollingFriction>0</rollingFriction>
+	<restitution>0</restitution>
+	<margin-multiplier>0</margin-multiplier>
+</bone-default>
+
+
+
+
+	<!-- CONSTRAINTS -->
+<generic-constraint bodyA="NPC GenitalsScrotum [GenScrot]" bodyB="NPC GenitalsBase [GenBase]">
+	<frameInB>
+		<basis x="0" y="0" z="0" w="1"/>
+		<origin x="0" y="0" z="0"/>
+	</frameInB>
+	<useLinearReferenceFrameA>false</useLinearReferenceFrameA>
+		<linearLowerLimit x="-10" y="-10" z="-1"/>
+		<linearUpperLimit x="10" y="10" z="1"/>
+		<angularLowerLimit x="0" y="0" z="0"/>
+		<angularUpperLimit x="0" y="0" z="0"/>
+		<linearStiffness x="100" y="100" z="100"/>
+		<angularStiffness x="100" y="100" z="100"/>
+		<linearDamping x="3" y="3" z="4"/>
+		<angularDamping x="3" y="3" z="4"/>
+		<linearEquilibrium x="0" y="0" z="0"/>
+		<angularEquilibrium x="0" y="0" z="0"/>
+		<linearBounce x="0" y="0" z="0"/>
+		<angularBounce x="0" y="0" z="0"/>
+</generic-constraint>
+
+<generic-constraint-default>
+	<frameInB>
+		<basis x="0" y="0" z="0" w="1"/>
+		<origin x="0" y="0" z="0"/>
+	</frameInB>
+	<useLinearReferenceFrameA>false</useLinearReferenceFrameA>
+		<linearLowerLimit x="0" y="-0.6" z="0"/>
+		<linearUpperLimit x="0" y="-0.6" z="0"/>
+		<angularLowerLimit x="0" y="0" z="0"/>
+		<angularUpperLimit x="0" y="0" z="0"/>
+		<linearStiffness x="0" y="0" z="0"/>
+		<angularStiffness x="0" y="0" z="0"/>
+		<linearDamping x="10" y="10" z="10"/>
+		<angularDamping x="10" y="10" z="10"/>
+		<linearEquilibrium x="0" y="0" z="0"/>
+		<angularEquilibrium x="0" y="0" z="0"/>
+		<linearBounce x="0" y="0" z="0"/>
+		<angularBounce x="0" y="0" z="0"/>
+</generic-constraint-default>
+
+	<generic-constraint bodyA="NPC Genitals01 [Gen01]" bodyB ="NPC GenitalsBase [GenBase]">
+			<linearLowerLimit x="0" y="1" z="-2"/>
+			<linearUpperLimit x="0" y="1" z="-2"/>
+			<angularLowerLimit x="-1.5" y="0" z="0"/>
+			<angularUpperLimit x="-0.8" y="0" z="0"/>
+
+	</generic-constraint>
+	<generic-constraint bodyA="NPC Genitals02 [Gen02]" bodyB ="NPC Genitals01 [Gen01]">
+
+
+
+	</generic-constraint>
+	<generic-constraint bodyA="NPC Genitals03 [Gen03]" bodyB ="NPC Genitals02 [Gen02]">
+
+
+	</generic-constraint>
+	<generic-constraint bodyA="NPC Genitals04 [Gen04]" bodyB ="NPC Genitals03 [Gen03]"></generic-constraint>
+	<generic-constraint bodyA="NPC Genitals05 [Gen05]" bodyB ="NPC Genitals04 [Gen04]">
+
+			<angularLowerLimit x="0" y="0" z="0"/>
+			<angularUpperLimit x="0" y="0" z="0"/>
+
+	</generic-constraint>
+	<generic-constraint bodyA="NPC Genitals06 [Gen06]" bodyB ="NPC Genitals05 [Gen05]">
+
+			<angularLowerLimit x="0" y="0" z="0"/>
+			<angularUpperLimit x="0" y="0" z="0"/>
+	
+	</generic-constraint>
+
+
+
+
+ 	<per-triangle-shape name="peniscollision">
+
+	<!-- name here refers to the name of your NiTriShape, find this in your body mods femalehands_0/_1 or malehands etc -->
+
+	    <margin>1.0</margin>
+	<!-- margin is how much "padding" is added to your mesh when calculating collision, this will cause your mesh to act on physics objects "before" it intersects with them -->
+
+	    <penetration>0.0</penetration>
+	<!-- How far your mesh can be inside another while still applying collisions -->
+
+	    <shared>public</shared>
+	<!-- ??? Assumption: Makes this shape only act on physics objects defined in this file? -->
+
+	<!-- <priority>1</priority>
+	     Priority is deprecated and no longer used
+	     how much resource is allocated to this collision object in a multi-collision scenario -->
+
+	    <tag>VirtualPenis</tag>
+	<!-- an identifier for this mesh collision object for use with no collide tags -->
+
+		<no-collide-with-tag>VirtualVagina</no-collide-with-tag>
+		 <no-collide-with-tag>BaseShape</no-collide-with-tag>
+		<no-collide-with-tag>VirtualPenis</no-collide-with-tag>
+	    <no-collide-with-bone>VirtualBelly</no-collide-with-bone>
+
+	<!-- Inverse of no-collide-with -->
+
+	<!-- prevents this collision object from colliding with the specified tag, note that this will not prevent the specified object from colliding with this unless also defined -->
+	<!-- on the other colliding object, no colliding with itself is fairly common and is a good standard unless your mesh does in fact collide with itself (multipart earring perhaps) -->
+
+	    <no-collide-with-bone>NPC GenitalsScrotum [GenScrot]</no-collide-with-bone>
+
+	<!-- this ones pretty apparent, will prevent collisions with mesh skinned to bones, could be useful if you wanted the hands to collide with the body but not the belly -->
+	<!-- although in that particular case the proxy objects give better results -->
+
+	</per-triangle-shape>
+	<!-- per-vertex-shapes are the simpler and faster collision objects. Obviously that comes with the drawback of less accuracy -->
+	<!-- vertex is good to use for "dumb collider" type objects, like a bat or a hand, things that don't really need physics calculated on themselves -->
+
+
+
+
+
+</system>
